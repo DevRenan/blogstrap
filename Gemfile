@@ -62,3 +62,4 @@ gem "pundit", "~> 2.2"
 
 gem "rolify", "~> 6.0"
 
+gem "groupdate", "~> 5.2"
