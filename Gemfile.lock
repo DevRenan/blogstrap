@@ -94,8 +94,8 @@ GEM
     ffi (1.15.5)
     globalid (1.0.0)
       activesupport (>= 5.0)
-    groupdate (6.0.1)
-      activesupport (>= 5.2)
+    groupdate (5.2.4)
+      activesupport (>= 5)
     i18n (1.9.1)
       concurrent-ruby (~> 1.0)
     io-wait (0.2.1)
@@ -266,7 +266,7 @@ DEPENDENCIES
   byebug
   capybara (>= 3.26)
   devise (~> 4.8)
-  groupdate (~> 6.0)
+  groupdate (~> 5.2)
   jbuilder (~> 2.7)
   kaminari (~> 1.2)
   letter_opener
