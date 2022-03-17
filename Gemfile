@@ -56,6 +56,7 @@ gem "simple_form", "~> 5.1"
 gem "kaminari", "~> 1.2"
 
 gem "devise", "~> 4.8"
+gem "devise-i18n"
 gem 'net-smtp', require: false
 
 gem "pundit", "~> 2.2"
